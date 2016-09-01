@@ -1,0 +1,11 @@
+body {
+  background-color: #A7DEFF;
+}
+
+table tr td{
+  border: 1px solid black;
+}
+
+.done {
+  opacity: .2;
+}
